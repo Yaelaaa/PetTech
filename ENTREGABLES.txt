@@ -1,0 +1,126 @@
+# ENTREGABLES ACTUALES POR INTEGRANTE (RÚBRICA FINAL)
+
+La prioridad actual es cumplir la rúbrica de la entrega final y preparar la exposición presencial.
+
+---
+
+# 🔹 MANUEL — Integración / Arquitectura / Revisión Final
+
+## Debe entregar:
+- Diagramas de secuencia principales
+- Arquitectura general del sistema
+- Integración final del proyecto
+- Revisión de coherencia general
+- Organización final del repositorio
+- Revisión de entrega final
+- Apoyo en backend/mock server si aplica
+
+## Relacionado con rúbrica:
+✅ Arquitectura  
+✅ Metodología  
+✅ Diagramas  
+✅ Funcionalidad del sistema  
+✅ Integración general  
+
+---
+
+# 🔹 YAEL — Aplicación móvil / Interfaces
+
+## Debe entregar:
+- Interfaces funcionales/navegables
+- Pantalla login
+- Pantalla mascotas
+- Configuración de rutina
+- Historial
+- Dispensado manual
+- Navegación entre pantallas
+- Capturas/screenshots para exposición y pruebas
+
+⚠️ La app puede usar datos simulados o navegación falsa mientras el flujo se vea funcional.
+
+## Relacionado con rúbrica:
+✅ Funcionalidad del sistema  
+✅ Prototipos del sistema  
+✅ Interfaces finales  
+✅ Evidencias visuales  
+
+---
+
+# 🔹 HÉCTOR — Hardware / Sistema embebido
+
+## Debe entregar:
+- Arquitectura hardware
+- Diagramas técnicos
+- Proteus/esquemáticos
+- Evidencias técnicas
+- Flujo ESP32/sensores/motor
+- Evidencias de integración HW
+
+## Relacionado con rúbrica:
+✅ Arquitectura  
+✅ Sistema embebido  
+✅ Evidencias técnicas  
+✅ Integración HW/SW  
+✅ Funcionalidad del sistema  
+
+---
+
+# 🔹 EDWIN — QA / Pruebas / Evidencias
+
+## Debe entregar:
+- Tablas de pruebas funcionales
+- Casos válidos/error
+- Resultado esperado vs obtenido
+- Evidencias/capturas
+- Checklist de rúbrica
+- Validaciones de flujo
+- Organización de evidencias finales
+
+## Relacionado con rúbrica:
+✅ Pruebas del sistema  
+✅ Validación  
+✅ Evidencias  
+✅ QA funcional  
+✅ Integración final  
+
+---
+
+# 🔹 MARÍA GUADALUPE — Documentación / Presentación
+
+## Debe entregar:
+- Revisión de ortografía
+- Revisión de coherencia
+- Organización de diapositivas
+- Trabajo futuro
+- Revisión de metodología
+- Guion de exposición
+- Revisión visual/general de documentación
+
+## Relacionado con rúbrica:
+✅ Presentación  
+✅ Orden y claridad  
+✅ Contenido  
+✅ Coherencia  
+✅ Documentación final  
+
+---
+
+# PRIORIDAD ACTUAL DEL PROYECTO
+
+## 🔥 MÁS IMPORTANTE AHORITA:
+1. Interfaces funcionales
+2. Evidencias y pruebas
+3. Arquitectura
+4. Diagramas de secuencia
+5. Presentación clara y consistente
+
+---
+
+# OBJETIVO FINAL
+
+Que el proyecto:
+- se vea funcional
+- tenga coherencia
+- tenga evidencias
+- pueda defenderse presencialmente
+- y cumpla visual y técnicamente la rúbrica.

@@ -1,0 +1,166 @@
+# PetTech - Sistema Embebido de Alimentación Inteligente para Mascotas
+
+Repositorio principal del proyecto PetTech.
+
+Este repositorio se utilizará para organizar:
+- documentación
+- interfaces
+- hardware
+- backend
+- evidencias
+- entrega final
+
+---
+
+# ESTRUCTURA DEL REPOSITORIO
+
+## 📁 documentation/
+Aquí va toda la documentación académica y entregables del proyecto.
+
+Subir aquí:
+- requisitos funcionales/no funcionales
+- reglas de negocio
+- casos de uso
+- diagramas
+- pruebas
+- PDFs
+- presentación
+- documentación final
+
+Responsable principal:
+➡️ María Guadalupe
+
+---
+
+## 📁 mobile-app/
+Aquí va todo lo relacionado con la aplicación móvil.
+
+Subir aquí:
+- interfaces
+- pantallas
+- navegación
+- mockups
+- assets UI
+- código app
+
+Responsable principal:
+➡️ Yael
+
+---
+
+## 📁 hardware/
+Aquí va toda la parte embebida/técnica.
+
+Subir aquí:
+- Proteus
+- firmware
+- esquemáticos
+- ESP32
+- sensores
+- diagramas hardware
+- evidencias técnicas
+
+Responsable principal:
+➡️ Héctor
+
+---
+
+## 📁 backend/
+Aquí va backend e integración.
+
+Subir aquí:
+- API
+- base de datos
+- mock server
+- integración
+- lógica backend
+
+Responsable principal:
+➡️ Manuel
+
+---
+
+## 📁 assets/
+Aquí van recursos visuales generales.
+
+Subir aquí:
+- logos
+- imágenes
+- screenshots
+- iconos
+- capturas para pruebas/exposición
+
+---
+
+## 📁 final-delivery/
+Aquí SOLO van archivos finales listos para entregar.
+
+Subir aquí:
+- PDF final
+- PPT final
+- evidencias finales
+
+⚠️ NO subir borradores aquí.
+
+---
+
+# RESPONSABILIDADES GENERALES
+
+## Manuel
+- integración general
+- arquitectura
+- backend
+- diagramas de secuencia
+- revisión final
+
+## Yael
+- interfaces
+- navegación
+- demo visual
+- mockups
+
+## Héctor
+- hardware
+- firmware
+- Proteus
+- arquitectura HW
+
+## Edwin
+- pruebas
+- validaciones
+- evidencias
+- checklist rúbrica
+- QA
+
+## María Guadalupe
+- documentación
+- revisión PPT
+- coherencia
+- ortografía
+- guion exposición
+
+---
+
+# REGLAS DEL REPO
+
+❌ No borrar archivos ajenos  
+❌ No subir archivos fuera de su carpeta  
+❌ No modificar entrega final sin avisar  
+
+✅ Nombrar archivos claramente  
+✅ Subir avances constantemente  
+✅ Mantener orden  
+✅ Avisar cambios importantes  
+
+---
+
+# IMPORTANTE
+
+La prioridad actual es:
+- consistencia
+- funcionalidad visual
+- evidencias
+- exposición
+- integración final
+
+No agregar nuevas funciones grandes al proyecto sin avisar.
