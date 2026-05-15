@@ -92,7 +92,7 @@ Subir aquí:
 
 ---
 
-## 📁 final-delivery/
+## 📁 entrega-final/
 Aquí SOLO van archivos finales listos para entregar.
 
 Subir aquí:
